@@ -1,6 +1,20 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Kritsanapon Rakkiatngam, I am a 3rd year IT student at King Mongkut's University of Technology Thonburi. I'm from Thailand, living in Samut Prakan. You can contact me on [FACEBOOK][1], [LINE][2], [DISCORD][3] or on Email: kritsanapon.melo@mail.kmutt.ac.th.
+
+##  Codes
+### Front-End
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+### Back-End
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Apache_Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=JSON&logoColor=white&color=2bbc8a)
+### Database
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=2bbc8a)
+
+##  Editers & Tools
+![](https://img.shields.io/badge/Editor-Apache_Netbeans-informational?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-MySQL_Workbench-informational?style=flat&logo=MySQLWorkbench&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Oracle_SQL_Developer-informational?style=flat&logo=MySQLWorkbench&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Oracle_SQL_Developer_Data_Modeler-informational?style=flat&logo=MySQLWorkbench&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
+
 
 ## &#x1f4c8; GitHub Stats
 
