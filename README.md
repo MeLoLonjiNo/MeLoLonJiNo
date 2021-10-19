@@ -20,7 +20,7 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/ys8sgP6.png (facebook icon without padding)
+[1.2]: https://www.flaticon.com/free-icon/facebook_145802?term=facebook&page=1&position=1&page=1&position=1&related_id=145802&origin=search (facebook icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
