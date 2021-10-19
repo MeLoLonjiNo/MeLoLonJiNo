@@ -1,7 +1,6 @@
-
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
    <br>
    
 My name is **Kritsanapon Rakkiatngam** or you can call me **MeLo**, I am a 3rd year IT#25 student at King Mongkut's University of Technology Thonburi. I'm from Thailand, living in Samut Prakan. 
