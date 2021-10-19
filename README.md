@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [FACEBOOK][1],  or on Email: kritsanapon.melo@mail.kmutt.ac.th.
+My name is Kritsanapon Rakkiatngam, I am a 3rd year IT student at King Mongkut's University of Technology Thonburi. I'm from Thailand, living in Samut Prakan. You can contact me on [FACEBOOK][1], [LINE][2], [DISCORD][3] or on Email: kritsanapon.melo@mail.kmutt.ac.th.
 
 ## &#x1f4c8; GitHub Stats
 
@@ -14,8 +14,8 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 <!-- links to your social media accounts -->
 
 [1]: https://www.facebook.com/kritsanapon.melolonjino
-[2]: https://github.com/MeLoLonJiNo
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://line.me/ti/p/e-DZ-8JOn8
+[3]: https://discordapp.com/users/241127865402392586
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
