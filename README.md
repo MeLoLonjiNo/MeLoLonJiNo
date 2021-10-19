@@ -2,9 +2,10 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is **Kritsanapon Rakkiatngam** or you can call me **MeLo**, I am a 3rd year IT#25 student at King Mongkut's University of Technology Thonburi. I'm from Thailand, living in Samut Prakan. 
-You can contact me on 
+You can contact me on
+<br>
 [![Facebook Badge](https://img.shields.io/badge/-Kritsanapon_Rakkiatngam-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)][1] [![Instagram Badge](https://img.shields.io/badge/-melolonjino-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)][4] [![Linkedin Badge](https://img.shields.io/badge/-freezere-00B900?style=flat-square&logo=line&logoColor=white&link=https://sivram.tech/)][2] [![Linkedin Badge](https://img.shields.io/badge/-MeLoLonJiNo_8991-7289d9?style=flat-square&logo=discord&logoColor=white&link=https://sivram.tech/)][3]
-or on Email: kritsanapon.melo@mail.kmutt.ac.th.
+<br> or on Email: kritsanapon.melo@mail.kmutt.ac.th.
 ##  Codes
 ### Front-End
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
