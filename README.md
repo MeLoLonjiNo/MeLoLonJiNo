@@ -4,7 +4,7 @@
    <br>
    
 My name is **Kritsanapon Rakkiatngam** or you can call me **MeLo**, I am a 3rd year IT#25 student at King Mongkut's University of Technology Thonburi. I'm from Thailand, living in Samut Prakan. 
-You can contact me on <br>[![Facebook Badge](https://img.shields.io/badge/-Kritsanapon_Rakkiatngam-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/kritsanapon.melolonjino)][1] [![Instagram Badge](https://img.shields.io/badge/-melolonjino-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/melolonjino)][4] [![Linkedin Badge](https://img.shields.io/badge/-freezere-00B900?style=flat-square&logo=line&logoColor=white&link=https://line.me/ti/p/e-DZ-8JOn8)][2] [![Linkedin Badge](https://img.shields.io/badge/-MeLoLonJiNo_8991-7289d9?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/241127865402392586)][3] <br> or on Email: kritsanapon.melo@mail.kmutt.ac.th.
+You can contact me on <br>[![Facebook Badge](https://img.shields.io/badge/-Kritsanapon_Rakkiatngam-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/kritsanapon.melolonjino)][1] [![Instagram Badge](https://img.shields.io/badge/-melolonjino-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/melolonjino)][4] [![Linkedin Badge](https://img.shields.io/badge/-MeLoLonJiNo_8991-7289d9?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/241127865402392586)][3] <br> or on Email: kritsanapon.melo@mail.kmutt.ac.th.
 ##  :computer: Codes
 ### Front-End
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
@@ -30,7 +30,6 @@ You can contact me on <br>[![Facebook Badge](https://img.shields.io/badge/-Krits
 <!-- links to your social media accounts -->
 
 [1]: https://www.facebook.com/kritsanapon.melolonjino
-[2]: https://line.me/ti/p/e-DZ-8JOn8
 [3]: https://discordapp.com/users/241127865402392586
 [4]: https://www.instagram.com/melolonjino/
 
